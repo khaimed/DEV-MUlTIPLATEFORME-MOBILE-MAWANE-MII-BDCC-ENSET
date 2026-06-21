@@ -1,5 +1,5 @@
 name: mobile_chatbot
-description: A simple ChatGPT-style mobile chatbot built with Flutter.
+description: ChatAI - a simple ChatGPT-style multiplatform chat app built with Flutter.
 publish_to: 'none'
 version: 1.0.0+1
 

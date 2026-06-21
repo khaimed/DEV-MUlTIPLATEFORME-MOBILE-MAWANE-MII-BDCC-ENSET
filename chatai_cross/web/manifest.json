@@ -1,6 +1,6 @@
 {
-    "name": "mobile_chatbot",
-    "short_name": "mobile_chatbot",
+    "name": "ChatAI",
+    "short_name": "ChatAI",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
