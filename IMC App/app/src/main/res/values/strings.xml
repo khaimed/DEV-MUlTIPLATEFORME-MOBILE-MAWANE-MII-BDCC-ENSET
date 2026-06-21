@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC App</string>
+    <string name="screen_title">IMC For II-Master BDCC 1</string>
+    <string name="weight_label">Poids</string>
+    <string name="height_label">Taille</string>
+    <string name="kg_unit">Kg</string>
+    <string name="cm_unit">Cm</string>
+    <string name="calculate_imc">Calculer IMC</string>
+    <string name="result_empty">Votre IMC est: --</string>
+    <string name="result_format">Votre IMC est: %1$s</string>
+    <string name="category_thin">Maigreur</string>
+    <string name="category_normal">Normal</string>
+    <string name="category_overweight">Sur Poids</string>
+    <string name="category_obese">Ob&#233;sit&#233; mod&#233;r&#233;e</string>
+    <string name="category_severe_obese">Ob&#233;sit&#233; s&#233;v&#232;re</string>
+    <string name="error_required">Champ obligatoire</string>
+    <string name="error_positive">Valeur invalide</string>
+    <string name="imc_logo_desc">Logo IMC</string>
+    <string name="category_image_desc">Categorie IMC</string>
+</resources>

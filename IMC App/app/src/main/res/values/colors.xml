@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_bg">#FFF7FF</color>
+    <color name="text_main">#3F3A46</color>
+    <color name="primary">#6D56B0</color>
+    <color name="primary_dark">#4E3A89</color>
+    <color name="error">#B3261E</color>
+    <color name="field_line">#776F83</color>
+    <color name="white">#FFFFFF</color>
+</resources>
